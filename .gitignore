@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated NBA simulator caches
+data/nba_skill_matcher_model.pkl
+data/nba_team_simulator.pkl
+*.log
